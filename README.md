@@ -120,7 +120,13 @@ Model dideploy sebagai aplikasi web interaktif menggunakan Streamlit:
 
 Detail struktur & cara menjalankan aplikasi ada di [streamlit/README.md ](streamlit/README.md).
 
-## 12. Contact
+## 12. Dashboard
+
+Selain aplikasi prediksi, proyek ini juga dilengkapi dengan dashboard interaktif untuk eksplorasi dataset menggunakan Tableau.
+
+🔗 **Tableau Public:** [Used Car Intelligence Dashboard](https://public.tableau.com/app/profile/firsa.adam/viz/syarah_com/Dashboard1)
+
+## 13. Contact
 
 - Name   : Athiyyah Nisrina Husna 
 - GitHub : [athiyyahnh99](https://github.com/athiyyahnh99)
