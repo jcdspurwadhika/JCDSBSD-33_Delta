@@ -1,0 +1,7 @@
+streamlit==1.49.0
+pandas==2.3.3
+numpy==2.4.5
+scikit-learn==1.8.0
+feature-engine==1.9.4
+xgboost==3.3.0
+joblib==1.5.3
