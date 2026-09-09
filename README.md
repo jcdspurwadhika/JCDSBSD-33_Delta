@@ -122,6 +122,10 @@ Detail struktur & cara menjalankan aplikasi ada di [streamlit/README.md ](stream
 
 ## 12. Contact
 
-- Name: Athiyyah Nisrina Husna / Firsa Adam
-- GitHub: [athiyyahnh99](https://github.com/athiyyahnh99) · [Firsaadam03](https://github.com/Firsaadam03)
-- Email: athiyyah.nh9@gmail.com / firsa00adam@gmail.com
+- Name   : Athiyyah Nisrina Husna 
+- GitHub : [athiyyahnh99](https://github.com/athiyyahnh99)
+- Email  : athiyyah.nh9@gmail.com
+  
+- Name   : Firsa Adam
+- GitHub : [Firsaadam03](https://github.com/Firsaadam03)
+- Email  : firsa00adam@gmail.com
