@@ -1,4 +1,4 @@
-# Used Car Price Prediction — Syarah.com
+# Used Car Price Prediction - Syarah.com
 
 Disusun oleh:
 
