@@ -116,7 +116,7 @@ Catatan: listing dengan status "Negotiable" (`Price = 0`) dikeluarkan dari data 
 
 Model dideploy sebagai aplikasi web interaktif menggunakan Streamlit:
 
-🔗 https://deploymentprojectusedcar-knlk92haftjqjyqdaq56ts.streamlit.app/
+🔗 https://used-car-price-estimator-sa.streamlit.app
 
 Detail struktur & cara menjalankan aplikasi ada di [streamlit/README.md ](streamlit/README.md).
 
